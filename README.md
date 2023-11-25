@@ -1,10 +1,10 @@
 -----
-# Progrmação Orientada a Objeto
+# Programação Orientada a Objeto
 -----
 
 <div align="justify">
 
-## Projeto - Avaliação 2
+## POO - Avaliação 2
 <p>
 É um projeto de POO realizado para a AV2 utilizando o Banco de Dados local e os critérios informados abaixo.
 </p>
@@ -54,6 +54,6 @@ Considerando que a igualdade deve ser baseada no id das entidades. <br />
 </p>
 
 <p align="center">
-<img alt="ORIENTACAO" src="https://github.com/joaovitorgfs/poo-av2/img/orientacao.png" /> <br />
+<img alt="ORIENTACAO" src="https://github.com/joaovitorgfs/poo-av2/blob/main/img/orientacao.png" /> <br />
 </p>
 </div>
